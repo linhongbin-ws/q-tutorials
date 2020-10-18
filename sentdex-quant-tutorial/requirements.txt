@@ -1,0 +1,6 @@
+pandas
+pandas-datareader
+matplotlib
+beautifulsoup4
+scikit-learn
+mpl_finance
